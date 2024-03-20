@@ -1,5 +1,5 @@
 ### Hi there 👋
-
+![Alt text](ceci_git_2024_pop_reduce.jpg)
 <!--
 **mcvalenti/mcvalenti** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
