@@ -1,6 +1,15 @@
-### Hi there 👋
-![Alt text](ceci_git_2024_pop_reduce.jpg)
+###  Ceci Valenti Here! 👋
+
+### ASTRONOMER 🔭 
+### Working on my github site 🤔
+### Skills:
+  [![Python](https://img.shields.io/badge/Python-yellow?style=for-the-badge&logo=python&logoColor=white&labelColor=101010)]()
+  
+
 <!--
+![Alt text](ceci_git_2024_pop_reduce.jpg)
+![Alt text](ceci_git_2024_pop_reduce.jpg)
+<img src="ceci_git_2024_pop_reduce.jpg" alt="drawing" style="width:40px;"/>
 **mcvalenti/mcvalenti** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
