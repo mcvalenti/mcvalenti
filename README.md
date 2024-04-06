@@ -1,7 +1,7 @@
 ###  Ceci Valenti Here! 👋
 
 ### ASTRONOMER 🔭 
-### Working on my github site 🤔
+### 👷‍♀️ Working on the projects of my github site 💫 🛰️
 ### Skills:
   [![Python](https://img.shields.io/badge/Python-yellow?style=for-the-badge&logo=python&logoColor=white&labelColor=101010)]()
   
